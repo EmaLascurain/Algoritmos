@@ -6,3 +6,5 @@ def funcion1():
     
 def funcion2():
     print("es la mejor")
+def funcion3():
+    print("del mundo")
